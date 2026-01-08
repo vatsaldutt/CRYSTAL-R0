@@ -1,11 +1,3 @@
-Alright, same treatment—no nostalgia goggles, no underselling, no pretending this was “just a robot arm.”
-
-Below is a **drop-in replacement README** that actually matches what **CRYSTAL-R0** was: an early, over-ambitious but genuinely serious cyber-physical assistant experiment.
-
-You can paste this as-is.
-
----
-
 # CRYSTAL-R0 (Legacy)
 
 Version from Jan 10, 2022
@@ -131,3 +123,4 @@ This design was not scalable or modular—but it enabled rapid experimentation a
 
 **Vatsal Dutt**
 Creator of CRYSTAL
+
