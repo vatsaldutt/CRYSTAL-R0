@@ -15,3 +15,11 @@ I was extremely limited by the tools I had available, so I collected ice cream s
 ## Software
 I first designed an Android app using MIT App Inventor (please bare with me, the UI could've been better). This sends signals to the connected Bluetooth module, which is later handled by the Arduino's logic.
 <img width="1511" height="853" alt="Screenshot 2025-12-11 at 2 10 39 AM" src="https://github.com/user-attachments/assets/be135548-6190-41f2-bf7f-b51dae3e08d0" />
+
+
+---
+
+## Author
+
+**Vatsal Dutt**
+Creator of CRYSTAL
