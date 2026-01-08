@@ -1,7 +1,7 @@
 # CRYSTAL-R0 (Legacy)
 
 Version from Jan 10, 2022
-Original Repo: [https://github.com/vatdut8994/Crystal-Old.git](https://github.com/vatdut8994/Crystal-Old.git)
+Original Repo: [https://github.com/vatdut8994/Crystal-Old.git](https://github.com/vatdut8994/Crystal-Old.git) \
 Superseding version: [https://github.com/vatsaldutt/CRYSTAL-Mark-I.git](https://github.com/vatsaldutt/CRYSTAL-Mark-I.git)
 
 ---
@@ -123,4 +123,5 @@ This design was not scalable or modular—but it enabled rapid experimentation a
 
 **Vatsal Dutt**
 Creator of CRYSTAL
+
 
