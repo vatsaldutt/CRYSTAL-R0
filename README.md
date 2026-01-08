@@ -56,7 +56,7 @@ This app sent Bluetooth signals to the Arduino, which handled low-level motor co
 
 ## Desktop Assistant & Control System (Major Upgrade)
 
-Later iterations introduced a **desktop-based assistant and control environment** written in Python using **PyQt5**, representing a major leap in capability and ambition.
+Introduced a **desktop-based assistant and control environment** written in Python using **PyQt5**, representing a major leap in capability and ambition.
 
 ### Key Capabilities
 
@@ -70,12 +70,6 @@ Later iterations introduced a **desktop-based assistant and control environment*
 * **Built-in desktop web browser**
 * **Time, date, and UI state awareness**
 * **Custom OS-like GUI shell**
-
-This system blurred the line between:
-
-* chatbot
-* desktop assistant
-* robotic control interface
 
 ---
 
@@ -123,5 +117,6 @@ This design was not scalable or modular—but it enabled rapid experimentation a
 
 **Vatsal Dutt**
 Creator of CRYSTAL
+
 
 
